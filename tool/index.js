@@ -2,13 +2,12 @@
 //hashbang
 const arg = require("arg");
 // const chalk = require("chalk");
+// const chalk = require("chalk");
 (async () => {
   const chalk = (await import("chalk")).default;
 
-  const args = process.argv.slice(2);
+  // Your code...
   console.log(chalk.green("Hello, World!"));
-
-  // Other logic...
 
   try {
     // Something that could throw
