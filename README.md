@@ -1,4 +1,4 @@
-Here’s how you can convert your project description into a GitHub README format:
+
 
 ```md
 # CLI Tool
